@@ -193,7 +193,7 @@
     "buffer": "^6.0.3",
     "clean-webpack-plugin": "^4.0.0",
     "commander": "4.1.1",
-    "commonmark": "^0.27.0",
+    "commonmark": "^0.31.2",
     "core-js": "^3.0.1",
     "d3": "^7.6.1",
     "d3-hierarchy": "^3.1.2",
