@@ -187,7 +187,7 @@
     "@mdx-js/react": "^2.1.5",
     "accounting": "^0.4.1",
     "ajv": "^8.11.0",
-    "axios": "^1.7.4",
+    "axios": "^1.12.0",
     "bourbon": "^4.3.4",
     "bourbon-neat": "^4.0.0",
     "buffer": "^6.0.3",
